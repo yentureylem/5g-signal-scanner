@@ -1,5 +1,5 @@
 streamlit
-plotly
-scipy
 numpy
-librosa
+scipy
+plotly
+matplotlib
